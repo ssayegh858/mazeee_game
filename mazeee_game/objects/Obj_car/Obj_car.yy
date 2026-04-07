@@ -6,7 +6,7 @@
     "name": "Spr_car_left",
     "path": "sprites/Spr_car_left/Spr_car_left.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,

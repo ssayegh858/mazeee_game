@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_goal",
+  "name": "Obj_win",
   "spriteId": {
-    "name": "Spr_gol",
-    "path": "sprites/Spr_gol/Spr_gol.yy",
+    "name": "Spr_win",
+    "path": "sprites/Spr_win/Spr_win.yy",
   },
   "solid": false,
   "visible": true,

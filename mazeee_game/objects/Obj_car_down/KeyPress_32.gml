@@ -10,5 +10,5 @@ if ((l687FD2E8_0 > 0))
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
 /// @DnDHash : 2447670C
-/// @DnDArgument : "type" "1"
-hspeed = 0;
+/// @DnDArgument : "speed" "2"
+speed = 2;

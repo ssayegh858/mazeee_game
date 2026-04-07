@@ -13,8 +13,7 @@ if ((l7E424013_0 > 0))
 /// @DnDVersion : 1
 /// @DnDHash : 01F0110A
 /// @DnDArgument : "speed" "1"
-/// @DnDArgument : "type" "1"
-hspeed = 1;
+speed = 1;
 
 /// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed
 /// @DnDVersion : 1
