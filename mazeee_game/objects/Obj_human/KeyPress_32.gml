@@ -19,5 +19,5 @@ hspeed = 1;
 /// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed
 /// @DnDVersion : 1
 /// @DnDHash : 7EBA06FA
-/// @DnDArgument : "speed" "5"
-image_speed = 5;
+/// @DnDArgument : "speed" "2"
+image_speed = 2;
