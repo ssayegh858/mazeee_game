@@ -6,7 +6,7 @@
     "name": "Spr_maze",
     "path": "sprites/Spr_maze/Spr_maze.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
