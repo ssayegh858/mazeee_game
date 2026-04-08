@@ -8,7 +8,7 @@ direction = 270;
 /// @DnDVersion : 1
 /// @DnDHash : 52AEB905
 /// @DnDArgument : "imageind" "0.5"
-/// @DnDArgument : "spriteind" "Spr_human_right"
-/// @DnDSaveInfo : "spriteind" "Spr_human_right"
-sprite_index = Spr_human_right;
+/// @DnDArgument : "spriteind" "Spr_humn_down"
+/// @DnDSaveInfo : "spriteind" "Spr_humn_down"
+sprite_index = Spr_humn_down;
 image_index = 0.5;
