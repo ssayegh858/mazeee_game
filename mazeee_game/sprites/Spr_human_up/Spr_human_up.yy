@@ -84,7 +84,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "mazeee_game",
-    "path": "mazeee_game.yyp",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }
