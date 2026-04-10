@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_squar",
+  "name": "Obj_room",
   "spriteId": {
-    "name": "Spr_squar",
-    "path": "sprites/Spr_squar/Spr_squar.yy",
+    "name": "Spr_room",
+    "path": "sprites/Spr_room/Spr_room.yy",
   },
   "solid": false,
   "visible": true,
